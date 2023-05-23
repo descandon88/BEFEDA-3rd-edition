@@ -4,10 +4,16 @@
   <img src="">
   </a>
   <sub>Author:
-  <a href="" target="_blank">David Escandón</a><br>
+  <a href="" target="">David Escandón</a><br>
   <small> May, 2023</small>
   </sub>
 </div>
 </div>
 
-[[Week 2 >>]()
+[<< Principal Index](../README.md) | [Week 2 >>]()
+
+- [📔 Week 1](#-week-1)
+	- [Git](#data-types)
+		- [GTI concepts & commands](#concepts-commands)
+		- [Introductory Program Altimetrik](#introductoryProgramAltimetrik)
+	
