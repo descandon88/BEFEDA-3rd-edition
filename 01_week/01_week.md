@@ -13,7 +13,12 @@
 [<< Principal Index](../README.md) | [Week 2 >>]()
 
 - [📔 Week 1](#-week-1)
-	- [Git](#data-types)
+	- [Git](#git)
 		- [GTI concepts & commands](#concepts-commands)
-		- [Introductory Program Altimetrik](#introductoryProgramAltimetrik)
+    - [Introductory Program Altimetrik](#introductoryProgramAltimetrik)
+    - [GIT branching strategies and flows](./01_git_branching_strategies_and_flows.md)
+    - [Git rebase and squash | merge vs rebase](./01_git_rebase_squash_merge_rebase.md)
+    - [Syntax and Basic Constructs](./01_syntax_and_basic_constructs.md)
+
+
 	
