@@ -14,7 +14,7 @@
 
 - [📔 Week 1](#-week-1)
 	- [Git](#git)
-		- [GTI concepts & commands](#concepts-commands)
+		- [GTI concepts & commands](./01_concepts_and_commands.md)
     - [Introductory Program Altimetrik](#introductoryProgramAltimetrik)
     - [GIT branching strategies and flows](./01_git_branching_strategies_and_flows.md)
     - [Git rebase and squash | merge vs rebase](./01_git_rebase_squash_merge_rebase.md)
