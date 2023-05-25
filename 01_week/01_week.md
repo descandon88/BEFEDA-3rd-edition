@@ -14,20 +14,19 @@
 
 - [📔 Week 1](#-week-1)
 
-
-<ul>
 <h3>Git</h3>
-<li href="https://docs.google.com/document/d/1Tx_8vplk58Y5LZY-4bALParl2SIMMh9EOXlMcEi14SE/edit#heading=h.sd8hcbftg3c">GIT concepts & commands</li>
-<li href="#">Introductory Program Altimetrik</li>
-<li href="https://docs.google.com/document/d/1Tx_8vplk58Y5LZY-4bALParl2SIMMh9EOXlMcEi14SE/edit#heading=h.67b0ywift4ob">GIT branching strategies and flows</li>
-<li href="#">Git rebase and squash | merge vs rebase</li>
+<ul>
+  <li> <a href="https://docs.google.com/document/d/1Tx_8vplk58Y5LZY-4bALParl2SIMMh9EOXlMcEi14SE/edit#heading=h.sd8hcbftg3c">GIT concepts & commands</a></li>
+  <li href="#">Introductory Program Altimetrik</li>
+  <li> <a href="https://docs.google.com/document/d/1Tx_8vplk58Y5LZY-4bALParl2SIMMh9EOXlMcEi14SE/edit#heading=h.67b0ywift4ob">GIT branching strategies and flows </a></li>
+  <li> <a href="#">Git rebase and squash | merge vs rebase </a></li>
 </ul>
 <!-- - [Git](#git) -->
 <!-- - [GIT concepts & commands](https://docs.google.com/document/d/1Tx_8vplk58Y5LZY-4bALParl2SIMMh9EOXlMcEi14SE/edit#heading=h.sd8hcbftg3c) -->
     <!-- - [Introductory Program Altimetrik](#introductoryProgramAltimetrik) -->
-    - [GIT branching strategies and flows](https://docs.google.com/document/d/1Tx_8vplk58Y5LZY-4bALParl2SIMMh9EOXlMcEi14SE/edit#heading=h.67b0ywift4ob)
+    <!-- - [GIT branching strategies and flows](https://docs.google.com/document/d/1Tx_8vplk58Y5LZY-4bALParl2SIMMh9EOXlMcEi14SE/edit#heading=h.67b0ywift4ob)
     - [Git rebase and squash | merge vs rebase](./01_git_rebase_squash_merge_rebase.md)
-    - [Syntax and Basic Constructs](./01_syntax_and_basic_constructs.md)
+    - [Syntax and Basic Constructs](./01_syntax_and_basic_constructs.md) -->
 
 
 	
