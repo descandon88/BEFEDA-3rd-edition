@@ -12,9 +12,8 @@
 
 [<< Principal Index](../README.md) | [Week 2 >>]()
 
-- [📔 Week 1](#-week-1)
+- [📔 Week 01](#-week-1)
 
-<h3>Git</h3>
 <ul>
   <li> <a href="https://docs.google.com/document/d/1Tx_8vplk58Y5LZY-4bALParl2SIMMh9EOXlMcEi14SE/edit#heading=h.sd8hcbftg3c">GIT concepts & commands</a></li>
   <li href="#">Introductory Program Altimetrik</li>
