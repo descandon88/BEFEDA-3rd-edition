@@ -7,6 +7,7 @@
     <small> May, 2023</small>
     </sub>
 </div>
+[<< Principal Index](../README.md)  | [<< Week 1](../01_week/01_week.md) | [Week 3 >>]()
 
 <h2>📔 Week 02</h2>
 <ul>
